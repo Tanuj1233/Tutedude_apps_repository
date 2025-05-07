@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/CardConnect/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/CardConnect/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/CardConnect/build" />
+      <excludeFolder url="file://$MODULE_DIR$/DICE/dice/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/DICE/dice/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/DICE/dice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/my_first_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/my_first_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/my_first_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
